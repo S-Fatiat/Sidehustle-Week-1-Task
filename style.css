@@ -1,0 +1,15 @@
+*{padding:2px;
+margin:5px;}
+legend{font-family:'Lucida bright, serif;
+font-size:15px;}
+label,
+#error-msg{font-size: 17px;
+font-family: 'Times New Roman',serif;
+}
+#error-msg{
+   // display:none;
+color:#ff2851;
+font-size:14px;
+margin-top:10px;
+}
+
